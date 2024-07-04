@@ -16,7 +16,7 @@ Prerequisites
 
 Installation
 
--   git clone https://github.com/jbettini/Pipex.git
+-   git clone https://github.com/jbettini/Pipex
 -   cd Pipex
 -   make
 
